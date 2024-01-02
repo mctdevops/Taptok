@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.6.1)
+  - JGProgressHUD (2.2)
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - JGProgressHUD
+  - Reachability
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - JGProgressHUD
+    - Reachability
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+PODFILE CHECKSUM: 8e03ff64571e8714de3ae3c5387f93a834a608c6
+
+COCOAPODS: 1.11.2

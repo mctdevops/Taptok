@@ -1,0 +1,33 @@
+{
+  "identifier" : "EC80A56B",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "2C48BADD",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Premium Version",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "PDFScanner.Premium",
+      "referenceName" : "Premium Version",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
